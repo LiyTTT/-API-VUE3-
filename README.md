@@ -1,6 +1,10 @@
+# 预览：
+![ecfe713a3400b7735271c0a78b1d682](https://github.com/LiyTTT/demo/assets/92281827/79fbf931-f68d-4f18-8ede-6398bb71fb16)
+
 # weather
 
 This template should help get you started developing with Vue 3 in Vite.
+使用高德的API来获取中国各省份天气，并显示五个城市的数据，右侧下方绘制几个图表，用于显示被选中城市的天气情况。其中包括各城市近几日最高气温折线图、最低气温折线图、各天气现象（晴、阴、小雨等）出现频率的饼图。天气信息用高德的天气api获取，城市信息也使用高德配套的数据
 
 ## Recommended IDE Setup
 
